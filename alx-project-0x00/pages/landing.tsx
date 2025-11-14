@@ -3,7 +3,7 @@ import Button from "@/components/Button";
 
 const Landing: React.FC = () => {
   return (
-    <div className="p-8">
+    <div className="p-8 rounded-lg">
       <h1 className="text-xl font-extralight mb-4">Landing Page</h1>
 
       <div className="flex gap-4 mb-4">
